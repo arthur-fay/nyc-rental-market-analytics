@@ -2,6 +2,12 @@
 
 A Power BI portfolio project by Arthur Fay. The report tracks New York City rental listings from February 2025 through May 2026 and compares neighborhood opportunities for May 2026.
 
+## Explore the project
+
+- **[Open the browser lab](https://arthur-fay.github.io/lab/nyc-rentals/).** Drag the rent chart to see a monthly snapshot, select a borough to compare trends, or search the May 2026 neighborhood scores and inspect their components.
+- **[Read the lab source](https://github.com/arthur-fay/arthur-fay.github.io/tree/main/lab/nyc-rentals).** See the static JavaScript companion and the exported data used by the charts.
+- **[Open the original Power BI report](#open-and-refresh).** Download the report package for Power BI Desktop and the source tables.
+
 ## What the report shows
 
 - **Executive Overview** covers asking and effective rents, monthly trends, concessions, and comparisons across all five boroughs.
